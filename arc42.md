@@ -1,6 +1,13 @@
 ---
 date: Setembro de 2024
 title: Barbearia![arc42](images/arc42-logo.png)
+integrantes:
+
+1. Irvanlei
+2. João Yutaka
+3. Alan Moura
+4. Felipe Silveira Silva
+5. Nelson Costa
 ---
 
 # Introdução e Objetivos {#section-introduction-and-goals}
